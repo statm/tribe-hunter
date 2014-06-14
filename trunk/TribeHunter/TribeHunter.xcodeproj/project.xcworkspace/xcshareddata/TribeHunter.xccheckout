@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>476DC2E2-39C0-46A8-A346-0170B79658F7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TribeHunter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9153CE6C-E9CF-4138-AA89-E3AB4DD5EEE7</key>
+		<string>http://triforce.usc.edu/svn/2014SPRING/MobileGames/TribeHunter</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/TribeHunter/TribeHunter.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9153CE6C-E9CF-4138-AA89-E3AB4DD5EEE7</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>9153CE6C-E9CF-4138-AA89-E3AB4DD5EEE7</key>
+		<string>http://triforce.usc.edu/svn/2014SPRING</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://triforce.usc.edu/svn/2014SPRING/MobileGames/TribeHunter/trunk/TribeHunter/TribeHunter.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9153CE6C-E9CF-4138-AA89-E3AB4DD5EEE7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>MobileGames/TribeHunter/branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>MobileGames/TribeHunter/tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>MobileGames/TribeHunter/trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9153CE6C-E9CF-4138-AA89-E3AB4DD5EEE7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TribeHunter</string>
+		</dict>
+	</array>
+</dict>
+</plist>

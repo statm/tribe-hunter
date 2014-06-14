@@ -1,0 +1,76 @@
+0_==This is the first mission====
+1_Mission
+0_==This is the fist wave====
+2_Waves
+0_==1.1 Spawn=====
+3_Spawn
+4_MonsterSpawn
+5_Name_KFC
+5_Attribute
+6_HP_200
+6_Attack_10
+6_Critical_0.19
+6_Dodge_0.10
+6_Resistance_0_6.3
+5_Skills_A_B_C
+4_Min_1
+4_Max_5
+0_==End of 1.1 Spawn=====
+0_==1.2 Spawn=====
+3_Spawn
+4_MonsterSpawn
+5_Name_Hahaha
+5_Attribute
+6_HP_500
+6_Attack_10
+6_Critical_0.19
+6_Dodge_0.10
+6_Resistance_0_6.3
+5_Skills_D_E_F
+4_Min_1
+4_Max_5
+0_==End of 1.2 Spawn========
+3_WaveTime_7
+0_==End of the first wave======
+0_==This is the second wave====
+2_Waves
+0_==2.1 Spawn=====
+3_Spawn
+4_MonsterSpawn
+5_Name_KFC
+5_Attribute
+6_HP_200
+6_Attack_10
+6_Critical_0.19
+6_Dodge_0.10
+6_Resistance_0_6.3
+5_Skills_A_B_C
+4_Min_1
+4_Max_5
+0_==End of 2.1 Spawn=====
+0_==2.2 Spawn=====
+3_Spawn
+4_MonsterSpawn
+5_Name_Hahaha
+5_Attribute
+6_HP_500
+6_Attack_10
+6_Critical_0.19
+6_Dodge_0.10
+6_Resistance_0_6.3
+5_Skills_D_E_F
+4_Min_1
+4_Max_5
+0_==End of 2.2 Spawn========
+3_WaveTime_12
+0_==End of the second wave======
+0_==End of the first mission===
+0_==The following file is the first skill and its parameter.===
+1_Skill
+2_SkillName_McDonald
+2_SkillDesc_This is just a test for skill.
+2_LevelRequired_10
+2_Cost_10
+2_Parent_
+2_Effect_Bubble
+0_==End of the first skill=====

@@ -1,0 +1,15 @@
+//
+//  THGamePausePanel.h
+//  TribeHunter
+//
+//  Created by Student on 3/2/14.
+//  Copyright (c) 2014 TH-Team. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface THGamePausePanel : UIView
+@property UIButton *resume;
+@property UIButton *quit;
+
+@end
